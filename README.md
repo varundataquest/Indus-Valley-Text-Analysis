@@ -14,7 +14,7 @@ Dataset was created as a csv file from ICIT web site from raw html files for eac
  2) Run ICITTextAnalysis-Textual Analysis
   This uses picked csv, and runs Textual Analysis on Indus texts
   
- 3) un ICITTextAnalysis- Distribution Analysis
+ 3) Run ICITTextAnalysis- Distribution Analysis
  This uses picked csv, and runs Distribution Analysis on Indus texts
  
  4) Run ICITTextAnalysis-Language Models
