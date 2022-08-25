@@ -4,7 +4,7 @@ Dataset was created as a csv file from ICIT web site from raw html files for eac
  
  This is how you use this project:
  
- Download All Juypter Notebooks
+ Download All Jupyter Notebooks
  Get the csv input files (not in Git)
  Get the ICIT Sign image files from ICIT website (not in Git)
  
