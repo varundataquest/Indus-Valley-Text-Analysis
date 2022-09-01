@@ -12,13 +12,13 @@ Dataset was created as a csv file from ICIT web site from raw html files for eac
  This reads the csv, cleans up and pickles cleaned up data
  
  2) Run ICITTextAnalysis-Textual Analysis
-  This uses picked csv, and runs Textual Analysis on Indus texts
+  This uses pickled csv, and runs Textual Analysis on Indus texts
   
  3) Run ICITTextAnalysis- Distribution Analysis
- This uses picked csv, and runs Distribution Analysis on Indus texts
+ This uses pickled csv, and runs Distribution Analysis on Indus texts
  
  4) Run ICITTextAnalysis-Language Models
- This uses picked csv, and runs language models and pickles language model output
+ This uses pickled csv, and runs language models and pickles language model output
  
- 5) Run ICITTextAnalysis- Helpers and Tests
+ 5) Run ICITTextAnalysis- Helpers and Tests - Note: This one is not rendering in Git because of bug in Git. You need to download and use it to see the code
  This uses picked csv,  and pickled language models and runs analysis Indus texts for Sign Fill-in
