@@ -5,7 +5,7 @@ Dataset was created as a csv file from ICIT web site from raw html files for eac
  This is how you use this project:
  
  Download All Jupyter Notebooks
- - Get the csv input files (not in GitHub). Contact Varun Venkatesh for this.
+ - Get the csv input files with Indus text data (not in GitHub). Contact Varun Venkatesh for this.
  - Get the ICIT Sign image files from ICIT website (not in GitHub)
  
  1) Run ICITTextAnalysis-InputDataProcessing-All
