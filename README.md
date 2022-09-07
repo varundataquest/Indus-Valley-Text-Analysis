@@ -5,7 +5,7 @@ Dataset was created as a csv file from ICIT web site from raw html files for eac
  This is how you use this project:
  
  Download All Jupyter Notebooks
- - Get the csv input files (not in GitHub) from Varun
+ - Get the csv input files (not in GitHub). Contact Varun Venkatesh for this.
  - Get the ICIT Sign image files from ICIT website (not in GitHub)
  
  1) Run ICITTextAnalysis-InputDataProcessing-All
@@ -21,4 +21,4 @@ Dataset was created as a csv file from ICIT web site from raw html files for eac
  This uses pickled csv, and runs language models and pickles language model output
  
  5) Run ICITTextAnalysis- Helpers and Tests -
- This uses picked csv,  and pickled language models and runs analysis Indus texts for Sign Fill-in
+ This uses picked csv,  and pickled language models and runs analysis Indus texts for Sign Fill-in. Contact Varun Venkatesh for this.
