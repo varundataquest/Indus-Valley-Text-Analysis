@@ -22,3 +22,6 @@ Dataset was created as a csv file from ICIT web site from raw html files for eac
  
  5) Run ICITTextAnalysis- Helpers and Tests -
  This uses picked csv,  and pickled language models and runs analysis Indus texts for Sign Fill-in. Contact Varun Venkatesh for this.
+ 
+ 6) Run ICITTextAnalysis- Anomalous Text Analysis
+ This is used to identify Anomalous texts in the Indus corpus from West Asia using Perplexity measures
