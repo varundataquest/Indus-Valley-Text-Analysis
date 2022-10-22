@@ -25,3 +25,5 @@ Dataset was created as a csv file from ICIT web site from raw html files for eac
  
  6) Run ICITTextAnalysis- Anomalous Text Analysis
  This is used to identify Anomalous texts in the Indus corpus from West Asia using Perplexity measures. Used Pickled csv and language models
+ 
+ ![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
