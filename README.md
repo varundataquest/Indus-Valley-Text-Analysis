@@ -1,6 +1,6 @@
 # ICITTextAnalysis
 Indus script ICITcorpus Analysis
-Dataset was created as a csv file from ICIT web site from raw html files for each for the Text Data labels were changes and a linearized copy of the original text was added. n-gram model was build from database and various Tests run to decipher unclear characters
+Dataset was created as a csv file from ICIT web site from raw html files for each for the Text Data labels were changes and a linearized copy of the original text was added. n-gram model was build from this corpus and various Tests run to decipher unclear characters
  
  This is how you use this project:
  
@@ -9,9 +9,6 @@ Dataset was created as a csv file from ICIT web site from raw html files for eac
  Needed:
    icit_sign_corpus.csv
    icit_text_text_corpus.csv
- Optional:
-   icit_iconography_text_corpus.csv
-   icit_artifact_text_corpus
  
  - Get the ICIT Sign image files from ICIT website (not in GitHub). Contact Varun Venkatesh for this.
  
