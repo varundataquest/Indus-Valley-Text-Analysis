@@ -30,6 +30,6 @@ Dataset was created as a csv file from ICIT web site from raw html files for eac
  6) Run ICITTextAnalysis- Anomalous Text Analysis
  This is used to identify Anomalous texts in the Indus corpus from West Asia using Perplexity measures. Uses pickled csv and pickled language models.
  
- Note: ICIT sign images don't render in github, as they are not uploaded to github. When you run it locally, you will need to have the image files locally
+ Note: ICIT sign images don't render in github in these notbooks, as they are not uploaded to github. When you run these notebooks locally, you will need to have the image files locally.
  
  ![Visitor Count](https://profile-counter.glitch.me/varundataquest/count.svg)
