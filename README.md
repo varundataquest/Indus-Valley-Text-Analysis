@@ -10,24 +10,24 @@ Dataset was created as a csv file from ICIT web site from raw html files for eac
    icit_sign_corpus.csv
    icit_text_text_corpus.csv
  
- - Get the ICIT Sign image files from ICIT website (not in GitHub). Contact Varun Venkatesh for this.
+ - Get the ICIT Sign image files from ICIT website (not in GitHub) for images to render correctly in the Jupyter notebook. Contact Varun Venkatesh for this.
  
  1) Run ICITTextAnalysis-InputDataProcessing-All
- This reads the csv, cleans up and pickles cleaned up data
+ This reads the csv, cleans up and pickles the cleaned up data
  
  2) Run ICITTextAnalysis-Textual Analysis
-  This uses pickled csv, and runs Textual Analysis on Indus texts
+  This uses pickled csv, and runs Textual Analysis on the Indus texts
   
  3) Run ICITTextAnalysis- Distribution Analysis
- This uses pickled csv, and runs Distribution Analysis on Indus texts
+ This uses pickled csv, and runs Distribution Analysis on the Indus texts
  
  4) Run ICITTextAnalysis-Language Models
- This uses pickled csv, and runs language models and pickles language model output
+ This uses pickled csv and runs language models and then pickles language model output
  
  5) Run ICITTextAnalysis- Helpers and Tests -
- This uses picked csv,  and pickled language models and runs analysis Indus texts for Sign Fill-in.
+ This uses picked csv and pickled language models and runs analysis on the Indus texts for Sign Fill-in models.
  
  6) Run ICITTextAnalysis- Anomalous Text Analysis
- This is used to identify Anomalous texts in the Indus corpus from West Asia using Perplexity measures. Used Pickled csv and language models
+ This is used to identify Anomalous texts in the Indus corpus from West Asia using Perplexity measures. Uses pickled csv and pickled language models.
  
  ![Visitor Count](https://profile-counter.glitch.me/varundataquest/count.svg)
