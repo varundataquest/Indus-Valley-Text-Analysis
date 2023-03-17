@@ -1,5 +1,11 @@
 # ICITTextAnalysis
 Indus script ICITcorpus Analysis
+
+Presented at : Emerging Perspectives on the Harappan civilization. Colloquium Feb 10-12, 2023 at IIT Gandhinagar- https://asc.iitgn.ac.in/assets/events/training_workshop/Book_of_Abstracts_com.pdf. Page 80
+Paper: Journal of Emerging Investigators, Accepted
+Poster: IEEE, ISEC Conference -https://www.ieee-isec.info/day/1
+
+-------------------------------------------------------------------------------
 Dataset was created as a csv file from ICIT web site from raw html files for each for the Text Data labels were changes and a linearized copy of the original text was added. n-gram model was build from this corpus and various Tests run to decipher unclear characters
  
  This is how you use this project:
