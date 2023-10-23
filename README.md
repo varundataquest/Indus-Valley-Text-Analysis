@@ -2,8 +2,9 @@
 
 ## Author : Varun Venkatesh Copyright 2023
 ## Presented at : Emerging Perspectives on the Harappan civilization. Colloquium Feb 10-12, 2023 at IIT Gandhinagar- https://asc.iitgn.ac.in/assets/events/training_workshop/Book_of_Abstracts_com.pdf. Page 80
-## Paper: Journal of Emerging Investigators, Accepted
+## Paper: Journal of Emerging Investigators, https://emerginginvestigators.org/articles/22-256
 ## Poster: IEEE, ISEC Conference -https://www.ieee-isec.info/day/1
+## Paper: IEEE ICCCNT Conference proceedings in IEEE xplore, late 2023. https://b916caa8-df9f-43d3-b2c8-3744fefafe66.usrfiles.com/ugd/b916ca_1000676de62d4e3cb9279a083065ebb6.pdf
 
 -------------------------------------------------------------------------------
 Indus script ICITcorpus Analysis
